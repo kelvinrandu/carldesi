@@ -206,7 +206,7 @@ h6 {
   font-size: 18px;
 }
 p {
-  color: #9b9b9b;
+  color: #5f5c5c;
   font-size: 13px;
   font-weight: 400;
   line-height: 22px;
@@ -2285,7 +2285,7 @@ table tbody tr td {
   margin-bottom: 12px;
 }
 .heading .heading--desc {
-  color: #a5a5a5;
+  color: #5f5c5c;
   font-size: 15px;
   font-weight: 400;
   line-height: 24px;
@@ -3925,7 +3925,7 @@ ul.dropdown-menu > li.has-dropdown > a:before {
 .slider .slide--bio {
   color: #f9f9f9;
   font-family: 'Droid Serif', serif;
-  font-size: 18px;
+  font-size: 15px;
   font-style: italic;
   line-height: 27px;
   margin-bottom: 40px;
@@ -4232,7 +4232,7 @@ ul.dropdown-menu > li.has-dropdown > a:before {
   margin-bottom: 20px;
 }
 .testimonial-panel .testimonial--body p {
-  color: #9b9b9b;
+  color: #4a3b3b;
   font-family: 'Droid Serif', serif;
   font-size: 23px;
   font-style: italic;
@@ -4779,7 +4779,7 @@ ul.dropdown-menu > li.has-dropdown > a:before {
   margin-bottom: 9px;
 }
 .feature-panel .feature--content p {
-  color: #9b9b9b;
+  color: #635f5f;
   font-size: 14px;
   font-weight: 400;
   line-height: 23px;
